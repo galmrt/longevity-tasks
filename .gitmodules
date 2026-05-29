@@ -1,0 +1,9 @@
+[submodule "task_f"]
+	path = task_f
+	url = git@github.com:galmrt/task_f.git
+[submodule "task_g"]
+	path = task_g
+	url = git@github.com:galmrt/task_g.git
+[submodule "task_h"]
+	path = task_h
+	url = git@github.com:galmrt/task_h.git
